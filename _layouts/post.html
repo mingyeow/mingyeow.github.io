@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-<a class="muted small" href="/">{{ site.title | escape }}</a>
+<a class="muted small" href="/">Home</a>
 <h1>{{ page.title | escape }}</h1>
+
+<div class="subtitle">{{ page.subtitle | escape }}</div>
+
+<div class="authors">
+  By: {{page.author}}
+</div>
 {{ content }}
 <p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
 {%- include footer.html -%}
