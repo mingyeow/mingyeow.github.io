@@ -7,7 +7,9 @@ description: The first post on this website.
 subtitle: The core of the Handshake experiment isn’t tech or cryptography - It’s names
 ---
 
-Names are fundamental to human existence and how we relate to everything in the world. At the heart of all interactions lies the ability for all the parties to match names to the respective entities they stand for. Names are so integral to the human experience that a strong argument can be made that if _something doesn't have a name, it does not exist._
+Names are fundamental to human existence and how we relate to everything in the world. At the heart of all interactions lies the ability for all the parties to match names to the respective entities they stand for. 
+
+Names are so integral to the human experience that a strong argument can be made that if _something doesn't have a name, it does not exist._
 
 Correspondingly, names on the internet are critical to our online existence. Users, apps, or machines locate a resource on the internet via its name. The name needs to not only be understood by humans but also needs to be uniquely identifiable by machines amongst the billions of potential destinations. 
 
