@@ -2,7 +2,7 @@
 layout: post
 title:	Handshake - A Namespace For The Decentralized Web
 date:	2020-09-14
-author:	Ming Ng, Cassandra Shi, Andrew Lee
+author:	Ming Ng, Andrew Lee, Cassandra Shi
 description: The first post on this website.
 subtitle: The core of the Handshake experiment isn’t tech or cryptography - It’s names
 ---
