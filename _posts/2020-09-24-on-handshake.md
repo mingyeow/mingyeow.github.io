@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	Handshake - A Namespace For The Decentralized Web
-date:	2020-09-14
+date:	2020-09-24
 author:	Ming Ng, Andrew Lee, Cassandra Shi
 description: Handshake - A Namespace For The Decentralized Web
 ---
@@ -126,6 +126,7 @@ We believe in a world where every internet user have an truly decentralised name
 
 --------
 
-_Credit to Matthew Zipkin for helping with the technical context of this post._
+_Thanks to Kartik Talwar, Ali Yahya, Chris Dixon, Qiao Wang, Linda Xie, Chjango, Dan Tsui, Shawn O'Connor, Mike Youseefmir, Tamara Frankel, Andreas Brekken, Steven Mckie, Dan Elitzer, Eric Meltzer, Xinshu Dong, Jocy Lin and Zhuling Chen for reviewing this post and providing many helpful comments and feedback._
 
-_Thanks to Kartik Talwar, Ali Yahya, Chris Dixon, Qiao Wang, Linda Xie, Chjango, Dan Tsui, Shawn O'Connor, Tamara Frankel, Andreas Brekken, Steven Mckie, Dan Elitzer, Eric Meltzer, Xinshu Dong, Jocy Lin, Mike Youseefmir for reviewing this post and providing many helpful comments and feedback._
+_Credit to Matthew Zipkin for assistance with much of the technical context._
+
