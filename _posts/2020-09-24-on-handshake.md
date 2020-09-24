@@ -126,7 +126,7 @@ We believe in a world where every internet user have an truly decentralised name
 
 --------
 
-_Thanks to Kartik Talwar, Ali Yahya, Chris Dixon, Qiao Wang, Linda Xie, Chjango, Dan Tsui, Shawn O'Connor, Mike Youseefmir, Tamara Frankel, Andreas Brekken, Steven Mckie, Dan Elitzer, Eric Meltzer, Xinshu Dong, Jocy Lin and Zhuling Chen for reviewing this post and providing many helpful comments and feedback._
+_Thanks to Kartik Talwar, Ali Yahya, Chris Dixon, Qiao Wang, Linda Xie, Chjango, Dan Tsui, Shawn O'Connor, Mike Youseefmir, Ari Paul, Tamara Frankel, Andreas Brekken, Steven Mckie, Dan Elitzer, Eric Meltzer, Xinshu Dong, Jocy Lin and Zhuling Chen for reviewing this post and providing many helpful comments and feedback._
 
 _Credit to Matthew Zipkin for assistance with much of the technical context._
 
