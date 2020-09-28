@@ -6,6 +6,8 @@ author:	Ming Ng, Andrew Lee, Cassandra Shi
 description: Handshake - A Namespace For The Decentralized Web
 ---
 
+[Chinese Translation](https://www.chainnews.com/articles/065803683638.htm) || [Hacker News](https://news.ycombinator.com/item?id=24579284) | 
+
 Names are fundamental to human existence and how we relate to everything in the world. At the heart of all interactions lies the ability for all the parties to match names to the respective entities they stand for. 
 
 Names are so integral to the human experience that a strong argument can be made that if _something doesn't have a name, it does not exist._
